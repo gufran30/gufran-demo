@@ -2,6 +2,9 @@ public class Demo
 {
 public statiic void main(String [] args)
     {
-        System.out.println("Hello Woeld!");
+        System.out.print("Hey ");
+        System.out.println("Gufran");
+        
+
     }
 }
